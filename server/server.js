@@ -1,7 +1,6 @@
 const express = require('express');
 const request = require('request');
 const fs = require('fs');
-const weather_file = require('./weather.js');
 
 var place = 'Folwark Leszczynowka';
 
